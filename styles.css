@@ -1,0 +1,127 @@
+body {
+    background-image: url('https://services.meteored.com/img/article/how-big-could-dinosaurs-like-t-rex-actually-get-1723145400036_1024.png'); 
+    
+  
+    background-repeat: repeat; 
+    
+    background-size: 30vw 30vw; 
+  
+    background-color: rgba(241, 204, 147, 0.6); 
+  
+    background-blend-mode: overlay;
+  
+    background-attachment: fixed;
+  }
+  #titulo {
+    text-align: center; 
+    background: linear-gradient(black,red);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 5vw;
+  }
+  
+  #anquilosaurio {
+    text-align: left;
+    background: linear-gradient(gray,black);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 3vw;
+  }
+  
+  #anqui {
+    text-align: left;
+    color: black;
+    font-size: 2vw;
+  }
+  
+  #anqui1 {
+    border-radius: 50vw; 
+    width: 40vw;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+  #espin {
+    text-align: left;
+    background: linear-gradient(orange,red);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 3vw;
+  }
+  
+  #espinnis {
+    text-align: left;
+    color: black;
+    font-size: 2vw;
+  }
+  
+  #espincalos {
+    border-radius: 50vw; 
+    width: 40vw;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #rex {
+    text-align: left;
+    background: linear-gradient(#68420a,#8e5a10);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 3vw;
+  }
+  
+  #tirano {
+    text-align: left;
+    color: black;
+    font-size: 2vw;
+  }
+  
+  #rexona-no-te-abandona {
+    border-radius: 50vw; 
+    width: 40vw;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #atops {
+    text-align: left;
+    background: linear-gradient(black,#8e5a10);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 3vw;
+  }
+  
+  #trice {
+    text-align: left;
+    color: black;
+    font-size: 2vw;
+  }
+  
+  #cuernos {
+    border-radius: 50vw; 
+    width: 40vw;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #taurus {
+    text-align: left;
+    background: linear-gradient(#8e5a10,#55880c );
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 3vw;
+  }
+  
+  #carno {
+    text-align: left;
+    color: black;
+    font-size: 2vw;
+  }
+  
+  #cuernillos {
+    border-radius: 50vw; 
+    width: 40vw;
+    display: block;
+    margin: 0 auto;
+  }
